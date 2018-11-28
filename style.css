@@ -1,0 +1,30 @@
+body{
+        color: white;
+        background-color:black;
+
+}
+header{
+	color: white;
+    font-size: 15pt;
+    background-size: 100%;
+	background-position: top;
+	margin: 10px;
+}
+aside{
+	color: white;
+	font-size: 20pt;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    border-radius: 25px;
+}
+
+.button {
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid red;
+    background-color:red;
+    color:white;
+}
+
